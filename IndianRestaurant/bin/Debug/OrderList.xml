@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfOrders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Orders>
+    <order_id>1</order_id>
+    <id>1</id>
+    <date>10/02/2021, 13:00</date>
+    <items>Chicken Tikka Masala</items>
+    <quantity>1</quantity>
+    <amount>15.99</amount>
+    <billing_status>Paid</billing_status>
+    <action>0</action>
+  </Orders>
+  <Orders>
+    <order_id>2</order_id>
+    <id>2</id>
+    <date>11/02/2021, 13:10</date>
+    <items>Chicken Biryani</items>
+    <quantity>2</quantity>
+    <amount>17.99</amount>
+    <billing_status>Unpaid</billing_status>
+    <action>0</action>
+  </Orders>
+  <Orders>
+    <order_id>3</order_id>
+    <id>1</id>
+    <date>10/02/2021, 13:00</date>
+    <items>Fish Garlic</items>
+    <quantity>1</quantity>
+    <amount>31.98</amount>
+    <billing_status>Paid</billing_status>
+    <action>0</action>
+  </Orders>
+</ArrayOfOrders>

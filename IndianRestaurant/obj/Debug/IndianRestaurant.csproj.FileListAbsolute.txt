@@ -1,0 +1,17 @@
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\bin\Debug\IndianRestaurant.exe.config
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\bin\Debug\IndianRestaurant.exe
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\bin\Debug\IndianRestaurant.pdb
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\MainWindow.g.cs
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\OrderList.g.cs
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\App.g.cs
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant_MarkupCompile.cache
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant_MarkupCompile.lref
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\MainWindow.baml
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\OrderList.baml
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.g.resources
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.Properties.Resources.resources
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.csproj.GenerateResource.cache
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.exe
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.pdb
+C:\Users\ADITYA\source\repos\IndianRestaurant\IndianRestaurant\obj\Debug\IndianRestaurant.csprojAssemblyReference.cache

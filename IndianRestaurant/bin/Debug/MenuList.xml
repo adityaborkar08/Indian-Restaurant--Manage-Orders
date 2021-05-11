@@ -1,0 +1,794 @@
+<?xml version="1.0"?>
+<ArrayOfMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Menu>
+    <id>1</id>
+    <menuName>Vegetable Pakora</menuName>
+    <category>Appetizers</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>2</id>
+    <menuName>Vegetable Samosa</menuName>
+    <category>Appetizers</category>
+    <price>4.99</price>
+    <quantity>2</quantity>
+  </Menu>
+  <Menu>
+    <id>3</id>
+    <menuName>Paneer Pakora</menuName>
+    <category>Appetizers</category>
+    <price>4.99</price>
+    <quantity>2</quantity>
+  </Menu>
+  <Menu>
+    <id>4</id>
+    <menuName>Chicken Pakora</menuName>
+    <category>Appetizers</category>
+    <price>5.99</price>
+    <quantity>3</quantity>
+  </Menu>
+  <Menu>
+    <id>5</id>
+    <menuName>Mixed Vegetable Platter</menuName>
+    <category>Appetizers</category>
+    <price>8.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>6</id>
+    <menuName>Mixed Platter</menuName>
+    <category>Appetizers</category>
+    <price>10.99</price>
+    <quantity>2</quantity>
+  </Menu>
+  <Menu>
+    <id>7</id>
+    <menuName>Garden Salad</menuName>
+    <category>Appetizers</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>8</id>
+    <menuName>Mango Chutney</menuName>
+    <category>Accompaniments</category>
+    <price>2.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>9</id>
+    <menuName>Papad</menuName>
+    <category>Accompaniments</category>
+    <price>3.49</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>10</id>
+    <menuName>Raita</menuName>
+    <category>Accompaniments</category>
+    <price>3.49</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>11</id>
+    <menuName>Plain Yogurt</menuName>
+    <category>Accompaniments</category>
+    <price>2.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>12</id>
+    <menuName>Extra Basmati Rice</menuName>
+    <category>Accompaniments</category>
+    <price>3.49</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>13</id>
+    <menuName>Lentil Soup</menuName>
+    <category>Soup</category>
+    <price>5.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>14</id>
+    <menuName>Tomato Soup</menuName>
+    <category>Soup</category>
+    <price>5.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>16</id>
+    <menuName>Tandoori Chicken</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>17</id>
+    <menuName>Chicken Tikka</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>18</id>
+    <menuName>Chicken Malai Kabab</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>19</id>
+    <menuName>Paneer Tikka</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>20</id>
+    <menuName>Seekh Kabab</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>16.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>21</id>
+    <menuName>Boti Kabab </menuName>
+    <category>Tandoori Delicacies</category>
+    <price>16.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>22</id>
+    <menuName>Fish Tikka</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>23</id>
+    <menuName>Tandoori Shrimp</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>19.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>24</id>
+    <menuName>Tandoori Mix Grill</menuName>
+    <category>Tandoori Delicacies</category>
+    <price>19.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>27</id>
+    <menuName>Paneer Tikka Masala</menuName>
+    <category>Vegetable Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>28</id>
+    <menuName>Paneer Kadhai </menuName>
+    <category>Vegetable Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>29</id>
+    <menuName>Chicken Curry</menuName>
+    <category>Chicken Specialties</category>
+    <price>12.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>30</id>
+    <menuName>Chicken Vindaloo</menuName>
+    <category>Chicken Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>31</id>
+    <menuName>Chicken Mushroom</menuName>
+    <category>Chicken Specialties</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>32</id>
+    <menuName>Chicken Dopiaza </menuName>
+    <category>Chicken Specialties</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>33</id>
+    <menuName>Achari Chicken</menuName>
+    <category>Chicken Specialties</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>34</id>
+    <menuName>Chicken Green Masala</menuName>
+    <category>Chicken Specialties</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>35</id>
+    <menuName>Chicken Palak</menuName>
+    <category>Chicken Specialties</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>36</id>
+    <menuName>Chicken Dhansak</menuName>
+    <category>Chicken Specialties</category>
+    <price>14.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>37</id>
+    <menuName>Chicken Shahi Korma</menuName>
+    <category>Chicken Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>38</id>
+    <menuName>Chicken Makhani</menuName>
+    <category>Chicken Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>39</id>
+    <menuName>Chicken Tikka Masala</menuName>
+    <category>Chicken Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>40</id>
+    <menuName>Chicken Josh</menuName>
+    <category>Chicken Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>41</id>
+    <menuName>Chicken Garlic</menuName>
+    <category>Chicken Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>42</id>
+    <menuName>Goat Curry (with bone)</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>43</id>
+    <menuName>Lamb Curry</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>44</id>
+    <menuName>Lamb Vindaloo</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>45</id>
+    <menuName>Lamb Palak</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>46</id>
+    <menuName>Lamb Sabzi</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>47</id>
+    <menuName>Lamb Dopiaza</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>48</id>
+    <menuName>Lamb Dhansak</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>49</id>
+    <menuName>Lamb Shahi Korma</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>50</id>
+    <menuName>Lamb Green Masala</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>51</id>
+    <menuName>Lamb Kadahi</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>52</id>
+    <menuName>Boti-Ka-Masala</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>53</id>
+    <menuName>Rogan Josh</menuName>
+    <category>Lamb Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>54</id>
+    <menuName>Fish Curry</menuName>
+    <category>Seafood Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>55</id>
+    <menuName>Fish Green Masala</menuName>
+    <category>Seafood Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>56</id>
+    <menuName>Fish Masala</menuName>
+    <category>Seafood Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>57</id>
+    <menuName>Fish Vindaloo</menuName>
+    <category>Seafood Specialties</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>58</id>
+    <menuName>Fish Garlic</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>59</id>
+    <menuName>Fish Malai</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>60</id>
+    <menuName>Shrimp Curry</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>61</id>
+    <menuName>Shrimp Garlic</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>62</id>
+    <menuName>Shrimp Green Masala</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>63</id>
+    <menuName>Shrimp Malai</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>64</id>
+    <menuName>Shrimp Vindaloo</menuName>
+    <category>Seafood Specialties</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>65</id>
+    <menuName>Vegetable Biryani</menuName>
+    <category>Biryani</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>66</id>
+    <menuName>Chicken Biryani</menuName>
+    <category>Biryani</category>
+    <price>15.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>67</id>
+    <menuName>Lamb Biryani</menuName>
+    <category>Biryani</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>68</id>
+    <menuName>Fish Biryani</menuName>
+    <category>Biryani</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>69</id>
+    <menuName>Shrimp Biryani</menuName>
+    <category>Biryani</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>70</id>
+    <menuName>Goat Biryani</menuName>
+    <category>Biryani</category>
+    <price>17.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>71</id>
+    <menuName>Mixed Vegetable Curry</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>72</id>
+    <menuName>Dal Tadka</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>73</id>
+    <menuName>Mixed Vegetable Vindaloo</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>74</id>
+    <menuName>Aloo Matar</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>75</id>
+    <menuName>Chana Masala</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>76</id>
+    <menuName>Palak Aloo</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>77</id>
+    <menuName>Shabnam Curry</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>78</id>
+    <menuName>Baigan Bharta</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>79</id>
+    <menuName>Bhindi Masala</menuName>
+    <category>Vegetable Specialties</category>
+    <price>11.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>80</id>
+    <menuName>Dal Makhani</menuName>
+    <category>Vegetable Specialties</category>
+    <price>12.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>81</id>
+    <menuName>Aloo Gobi</menuName>
+    <category>Vegetable Specialties</category>
+    <price>12.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>82</id>
+    <menuName>Matar Paneer</menuName>
+    <category>Vegetable Specialties</category>
+    <price>12.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>83</id>
+    <menuName>Chana Paneer</menuName>
+    <category>Vegetable Specialties</category>
+    <price>12.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>84</id>
+    <menuName>Vegetable Green Masala</menuName>
+    <category>Vegetable Specialties</category>
+    <price>12.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>85</id>
+    <menuName>Palak Paneer</menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>86</id>
+    <menuName>Malai Kofta</menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>87</id>
+    <menuName>Navratan Korma</menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>88</id>
+    <menuName>Paneer Makhani </menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>89</id>
+    <menuName>Paneer Shahi Korma</menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>90</id>
+    <menuName>Paneer Butter Masala</menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>91</id>
+    <menuName>Achari Paneer </menuName>
+    <category>Vegetable Specialties</category>
+    <price>13.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>92</id>
+    <menuName>Naan </menuName>
+    <category>Tandoori Breads</category>
+    <price>2.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>93</id>
+    <menuName>Roti </menuName>
+    <category>Tandoori Breads</category>
+    <price>2.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>94</id>
+    <menuName>Paratha </menuName>
+    <category>Tandoori Breads</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>95</id>
+    <menuName>Garlic Naan</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>96</id>
+    <menuName>Chili Garlic Naan</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>97</id>
+    <menuName>Cheese Naan</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>98</id>
+    <menuName>Aloo Naan</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>99</id>
+    <menuName>Onion Kulcha</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>100</id>
+    <menuName>Aloo Paratha</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>101</id>
+    <menuName>Gobi Paratha</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>102</id>
+    <menuName>Keema Naan</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>103</id>
+    <menuName>Kashmiri Naan</menuName>
+    <category>Tandoori Breads</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>104</id>
+    <menuName>Bread Basket</menuName>
+    <category>Tandoori Breads</category>
+    <price>8.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>105</id>
+    <menuName>Gulab Jamun</menuName>
+    <category>Desserts</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>106</id>
+    <menuName>Kheer </menuName>
+    <category>Desserts</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>107</id>
+    <menuName>Kulfi </menuName>
+    <category>Desserts</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>108</id>
+    <menuName>Mango Pudding</menuName>
+    <category>Desserts</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>109</id>
+    <menuName>Gajar Halwa</menuName>
+    <category>Desserts</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>110</id>
+    <menuName>Mango Lassi</menuName>
+    <category>Beverages</category>
+    <price>4.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>111</id>
+    <menuName>Sweet Lass</menuName>
+    <category>Beverages</category>
+    <price>3.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>112</id>
+    <menuName>Mango Juice</menuName>
+    <category>Beverages</category>
+    <price>2.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>113</id>
+    <menuName>Tea</menuName>
+    <category>Beverages</category>
+    <price>2.49</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>114</id>
+    <menuName>Soft Drinks</menuName>
+    <category>Beverages</category>
+    <price>1.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>115</id>
+    <menuName>Bottled Water</menuName>
+    <category>Beverages</category>
+    <price>1.99</price>
+    <quantity>0</quantity>
+  </Menu>
+  <Menu>
+    <id>116</id>
+    <menuName>Whole Milk</menuName>
+    <category>Beverages</category>
+    <price>1.99</price>
+    <quantity>0</quantity>
+  </Menu>
+</ArrayOfMenu>
